@@ -6,7 +6,7 @@ bot = commands.Bot('.', intents=intents)
 @bot.event
 async def on_ready():
    print("iniciado")
-# Mude as no código para fazer funcionar do seu jeito
+# Mude as coisas no código para fazer funcionar do seu jeito
 
 
 @bot.command()
